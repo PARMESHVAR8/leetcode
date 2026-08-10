@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PARMESHVAR8/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/PARMESHVAR8/leetcode/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PARMESHVAR8/leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/PARMESHVAR8/leetcode/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
