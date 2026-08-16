@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PARMESHVAR8/leetcode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PARMESHVAR8/leetcode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PARMESHVAR8/leetcode/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
