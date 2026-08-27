@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PARMESHVAR8/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0541-reverse-string-ii) |
+| [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PARMESHVAR8/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
