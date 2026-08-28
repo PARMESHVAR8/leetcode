@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
