@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PARMESHVAR8/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/PARMESHVAR8/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PARMESHVAR8/leetcode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/PARMESHVAR8/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0541-reverse-string-ii) |
+| [1859-sorting-the-sentence](https://github.com/PARMESHVAR8/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
