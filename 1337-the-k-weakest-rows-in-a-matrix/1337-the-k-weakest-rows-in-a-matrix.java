@@ -3,20 +3,29 @@ class Solution {
         int rows = mat.length;
         int cols = mat[0].length;
         int[] score = new int[rows];
-        int j;
         for(int i =0; i<rows; i++){
-            for(j =0; j<cols;j++){
-                if(mat[i][j]==0){
+            for(int j =0; j<cols;j++){
+                if(mat[i][j]==1){
+                    score[i]++;
+                }else{
                     break;
                 }
             }
-            score[i]=j*rows+i;
         }
-        Arrays.sort(score);
-        for(int i =0; i<score.length;i++){
-            score[i]=score[i]%rows;
+        List<Integer> c = new ArrayList<>();
+        for(int i =0; i<rows; i++){
+            c.add(i);
         }
-        return Arrays.copyOfRange(score,0,k);
-        
+        Collections.sort(c,(a,b)->{
+            if(score[a]==score[b]){
+                return a-b;
+            }
+            return score[a]-score[b];
+        });
+        int[]res = new int[k];
+        for(int i =0; i<k;i++){
+            res[i]=c.get(i);
+        }
+        return res;
     }
 }
