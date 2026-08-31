@@ -3,7 +3,7 @@ class Solution {
         int n= nums.length;
         int i =0; 
         int j=1;
-        while(i<n && j<n){
+        while(i<n){
             if(nums[i]%2==0){
                 i+=2;
             }else if(nums[j]%2 ==1){
