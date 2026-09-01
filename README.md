@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PARMESHVAR8/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 ## String
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PARMESHVAR8/leetcode/tree/master/0561-array-partition) |
+| [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 ## Counting Sort
 |  |
 | ------- |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PARMESHVAR8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
