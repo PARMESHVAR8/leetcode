@@ -12,12 +12,11 @@ class Solution {
         if(arr[0].equals("0")){
             return "0";
         }
-        // StringBuilder ans = new StringBuilder();
-        // for( String s : arr){
-        //     ans.append(s);
-        // }
-        // return ans.toString();
-        String ans = String.join("",arr);
-        return ans;
+        StringBuilder ans = new StringBuilder();
+        for( String s : arr){
+            ans.append(s);
+        }
+        return ans.toString();
+
     }
 }
