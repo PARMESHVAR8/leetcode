@@ -2,7 +2,7 @@ class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
         int n= names.length;
         HashMap<Integer,String> a= new HashMap<>();
-        for(int i =0; i<n; i++){
+        for(int i =0; i<n; ++i){
             a.put(heights[i],names[i]);
         }
         Arrays.sort(heights);
@@ -11,7 +11,7 @@ class Solution {
             heights[i]=heights[n-1-i];
             heights[n-1-i]= temp;
         }
-        for(int i =0; i< n; i++){
+        for(int i =0; i< n; ++i){
             names[i]=a.get(heights[i]);
         }
         return names;
