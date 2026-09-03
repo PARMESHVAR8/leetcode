@@ -6,7 +6,7 @@ class Solution {
             a.put(heights[i],names[i]);
         }
         Arrays.sort(heights);
-        for(int i =0; i<n/2; i++){
+        for(int i =0; i<n/2; ++i){
             int temp = heights[i];
             heights[i]=heights[n-1-i];
             heights[n-1-i]= temp;
