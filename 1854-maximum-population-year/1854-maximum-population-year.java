@@ -10,7 +10,7 @@ class Solution {
         }
         int max = arr[0];
         int year = 1950;
-        for(int i =1; i<101;i++){
+        for(int i =1; i<101;++i){
             arr[i] += arr[i-1];
             if(arr[i]>max){
                 max=arr[i];
