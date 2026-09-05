@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PARMESHVAR8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PARMESHVAR8/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PARMESHVAR8/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1854-maximum-population-year](https://github.com/PARMESHVAR8/leetcode/tree/master/1854-maximum-population-year) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PARMESHVAR8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PARMESHVAR8/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
