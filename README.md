@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PARMESHVAR8/leetcode/tree/master/0007-reverse-integer) |
+| [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/PARMESHVAR8/leetcode/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PARMESHVAR8/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PARMESHVAR8/leetcode/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 ## Counting Sort
 |  |
@@ -173,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/PARMESHVAR8/leetcode/tree/master/1854-maximum-population-year) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
