@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PARMESHVAR8/leetcode/tree/master/0007-reverse-integer) |
 | [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PARMESHVAR8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/PARMESHVAR8/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/PARMESHVAR8/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PARMESHVAR8/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PARMESHVAR8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/PARMESHVAR8/leetcode/tree/master/2418-sort-the-people) |
 ## Quicksort
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PARMESHVAR8/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PARMESHVAR8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
