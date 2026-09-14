@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PARMESHVAR8/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PARMESHVAR8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PARMESHVAR8/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
