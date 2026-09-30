@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/PARMESHVAR8/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/PARMESHVAR8/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/PARMESHVAR8/leetcode/tree/master/0561-array-partition) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/PARMESHVAR8/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/PARMESHVAR8/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/PARMESHVAR8/leetcode/tree/master/0561-array-partition) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/PARMESHVAR8/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PARMESHVAR8/leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/PARMESHVAR8/leetcode/tree/master/0881-boats-to-save-people) |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/PARMESHVAR8/leetcode/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/PARMESHVAR8/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
