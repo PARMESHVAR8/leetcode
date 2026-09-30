@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0541-reverse-string-ii) |
+| [0709-to-lower-case](https://github.com/PARMESHVAR8/leetcode/tree/master/0709-to-lower-case) |
 | [1859-sorting-the-sentence](https://github.com/PARMESHVAR8/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/PARMESHVAR8/leetcode/tree/master/2418-sort-the-people) |
 ## Binary Search
