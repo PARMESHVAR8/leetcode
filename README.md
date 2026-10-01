@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PARMESHVAR8/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/PARMESHVAR8/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0414-third-maximum-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/PARMESHVAR8/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/PARMESHVAR8/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PARMESHVAR8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/PARMESHVAR8/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/PARMESHVAR8/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0387-first-unique-character-in-a-string) |
