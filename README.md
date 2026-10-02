@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PARMESHVAR8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/PARMESHVAR8/leetcode/tree/master/0771-jewels-and-stones) |
 | [1054-distant-barcodes](https://github.com/PARMESHVAR8/leetcode/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PARMESHVAR8/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/PARMESHVAR8/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/PARMESHVAR8/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/PARMESHVAR8/leetcode/tree/master/0771-jewels-and-stones) |
 | [1859-sorting-the-sentence](https://github.com/PARMESHVAR8/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/PARMESHVAR8/leetcode/tree/master/2418-sort-the-people) |
 ## Binary Search
