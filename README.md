@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PARMESHVAR8/leetcode/tree/master/0007-reverse-integer) |
 | [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PARMESHVAR8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/PARMESHVAR8/leetcode/tree/master/2578-split-with-minimum-sum) |
 ## Linked List
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/PARMESHVAR8/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/PARMESHVAR8/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/PARMESHVAR8/leetcode/tree/master/0929-unique-email-addresses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1859-sorting-the-sentence](https://github.com/PARMESHVAR8/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/PARMESHVAR8/leetcode/tree/master/2418-sort-the-people) |
 ## Binary Search
@@ -246,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PARMESHVAR8/leetcode/tree/master/0657-robot-return-to-origin) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
