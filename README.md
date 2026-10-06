@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PARMESHVAR8/leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/PARMESHVAR8/leetcode/tree/master/0067-add-binary) |
 | [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PARMESHVAR8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/PARMESHVAR8/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PARMESHVAR8/leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/PARMESHVAR8/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/PARMESHVAR8/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0344-reverse-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PARMESHVAR8/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/PARMESHVAR8/leetcode/tree/master/0657-robot-return-to-origin) |
 ## Euclidean Algorithm
 |  |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PARMESHVAR8/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
