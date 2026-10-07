@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PARMESHVAR8/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/PARMESHVAR8/leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/PARMESHVAR8/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/PARMESHVAR8/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/PARMESHVAR8/leetcode/tree/master/0917-reverse-only-letters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PARMESHVAR8/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/PARMESHVAR8/leetcode/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/PARMESHVAR8/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PARMESHVAR8/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/PARMESHVAR8/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/PARMESHVAR8/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/PARMESHVAR8/leetcode/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/PARMESHVAR8/leetcode/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/PARMESHVAR8/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/PARMESHVAR8/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/PARMESHVAR8/leetcode/tree/master/0844-backspace-string-compare) |
 ## Euclidean Algorithm
 |  |
 | ------- |
