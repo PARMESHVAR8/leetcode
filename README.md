@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PARMESHVAR8/leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/PARMESHVAR8/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/0415-add-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/PARMESHVAR8/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PARMESHVAR8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PARMESHVAR8/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/PARMESHVAR8/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/PARMESHVAR8/leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/PARMESHVAR8/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PARMESHVAR8/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/PARMESHVAR8/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/PARMESHVAR8/leetcode/tree/master/0844-backspace-string-compare) |
 ## Euclidean Algorithm
