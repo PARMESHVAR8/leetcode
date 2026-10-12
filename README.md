@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PARMESHVAR8/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/PARMESHVAR8/leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/PARMESHVAR8/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PARMESHVAR8/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/PARMESHVAR8/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/PARMESHVAR8/leetcode/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/PARMESHVAR8/leetcode/tree/master/0929-unique-email-addresses) |
+| [1021-remove-outermost-parentheses](https://github.com/PARMESHVAR8/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PARMESHVAR8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PARMESHVAR8/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PARMESHVAR8/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -280,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PARMESHVAR8/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PARMESHVAR8/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
